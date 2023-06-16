@@ -15,14 +15,13 @@
 
 <h3 align="Center">Languages and Tools:</h3>  
 <p align="center">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-ff69b4?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/React-9cf?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/React Native-blue?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/LUA-07405E?style=for-the-badge&logo=lua&logoColor=white">
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> 
+<img src="https://img.shields.io/badge/C-07405E?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/PostgresSQL-430098?style=for-the-badge&logo=postgresql&logoColor=white"> 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 </p>
