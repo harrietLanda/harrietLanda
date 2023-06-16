@@ -20,10 +20,15 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/React-9cf?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/React Native-blue?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/C-07405E?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/PostgresSQL-430098?style=for-the-badge&logo=postgresql&logoColor=white"> 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 </p>
 
+<h3 align="Center">Learning:</h3>  
+<p align="center">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Rust-f77e05?style=for-the-badge&logo=rust&logoColor=white">
+<img src="https://img.shields.io/badge/C-07405E?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Lua-430098?style=for-the-badge&logo=lua&logoColor=white">
 
